@@ -46,7 +46,7 @@ In addition, there are also two roof blocks. One is listed under 'roofs' on the 
 Designing the Skylark Model
 ---------------------------
 
-To recreate the [Skylark Model](https://www.jenniferhuygen.com/visiting-the-wikihouse-skylark-model/) that was on display in London earlier this month, we used a lot of trial and error but also used the [YouTube video of the build](https://youtu.be/r5O5D2iEngY) and the written documentation that was available in the Design Centre in London as reference.
+To recreate the Skylark Model that was on display in London earlier this month, we used a lot of trial and error but also used the [YouTube video of the build](https://youtu.be/r5O5D2iEngY) and the written documentation that was available in the Design Centre in London as reference.
 
 ### Create the floor frame
 
