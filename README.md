@@ -1,5 +1,5 @@
 # Skylark Practice and Designs by JennHuygen and @teun95
-This is supposed to become a repository of practice models in SketchUp based on the WikiHouse Skylark system. I found it quite difficult to get started with designing my first Skylark model in SketchUp and hope that sharing my work will make it easier for others.
+This is supposed to become a repository of practice models in SketchUp based on the WikiHouse Skylark system. I found it quite difficult to get started with designing my first Skylark model in SketchUp and hope that sharing my work will make it easier for others. In time, I will also add our designs and thinking of our own WikiHouse.
 
 The <a href="https://github.com/JennHuygen/Skylark/tree/main/Sketchup%20Models/Building%20Centre%20London%20Model">first model</a> is a recreation of the WikiHouse Skylark Model as displayed at the Building Design Centre in London as part of the Skylark system launch in February 2022. It has a detailed write-up of the creating process to help others recreate the model and practice with Skylark. I intend to do the same for at least a number of practice projects in the next few weeks so feel free to watch this repository and receive updates if you are interested.
 
@@ -11,7 +11,9 @@ I've also created an updated version of the WikiHouse Simple Starter Kit, file t
 5. LARGE_A_X
 6. LARGE_B_X
 
-These components correspond with the standard floor block sizes of WikiHouse. The components have the necessary ground (A) or mid-level (B) combs with the end floor block combined already for the X-axis. This means you can start building right away, and the only additional combs you will need to add in your design are for the Y-axis and the gabled roof (if using).
+These components correspond with the standard floor block sizes of WikiHouse. The components have the necessary ground (A) or mid-level (B) combs with the end floor block combined already for the X-axis. This means you can start building right away, and the only additional combs you will need to add in your design are for the Y-axis.
+
+I have also created a new roof_G block which is a combination of the G COMBS and end roof block to create the ends of the gabled roof form. The roof_G is used as the X-axis on both ends of your house to create a gabled roof. For more information about roofs, have a look at my roofs practice <a href="https://github.com/JennHuygen/Skylark/tree/main/Sketchup%20Practice/Roofs">here</a>. 
 
 Feel free to comment, open issues, or fork on all my files and designs. Looking forward to learning from you.
 
