@@ -68,13 +68,13 @@ We have modelled the x-axis as:
 
 -   COMB A END X1
 -   COMB A MID 1
--   COMB A END X3
+-   COMB A END X2
 
 *Second row (aligned right next to the first row, face-to-face):*
 
 -   COMB A END X3
 -   COMB A MID 1
--   COMB A END X1
+-   COMB A END X2
 
 Then we modelled the y-axis with two times COMB A END Y2 face-to-face (same direction, not reversed as the frame of the Y-axis is only one comb long in this particular model). Note that in a real house you would need to make the Y-axis longer to create the full depth of the house, for which the above notes apply.
 
@@ -108,11 +108,11 @@ Before you can add a roof to the building, you will need to create a roof frame 
 
 -   COMB B END X1
 -   COMB B MID 1
--   COMB B END X3
+-   COMB B END X2
 
 *Second row (aligned right next to the first row, face-to-face):*
 
--   COMB B END X3
+-   COMB B END X2
 -   COMB B MID 1
 -   COMB B END X1
 
