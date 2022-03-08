@@ -1,6 +1,6 @@
 # Simple House
 
-Using the updated Starter Simple Design Kit for Skylark 250 that I created, I started practicing by modeling a medium-sized house. The instructions of which are below.
+Using the updated Starter Simple Design Kit for Skylark 250 that I created, I started practicing by modeling a medium-sized house. The instructions of which are below. Note that I did not consider whether the placement of the windows / walls / door are structurally sound -- this is to practice with Skylark blocks only.
 
 I will likely build on the initial draft I created in the next few weeks so watch this space if you are interested. 
 
