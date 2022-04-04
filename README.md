@@ -9,17 +9,13 @@ In addition, I have created <a href="https://www.youtube.com/playlist?list=PLxqJ
 
 ## Starter resources
 
-I've also created an updated version of the WikiHouse Simple Starter Kit, file titled "Starter_Simple_Design_Kit_Skylark250". Using this file will hopefully make it easier to start designing in SketchUp immediately. The file includes all current Skylark 250 Simple Design Kit blocks as created by the WikiHouse team and available <a href="https://www.wikihouse.cc/blocks">here</a>. In addition, I've created six new components that are assembled out of Skylark combs and the relevant end floor blocks fitted to them:
-1. SMALL_A_X
-2. SMALL_B_X
-3. MEDIUM_A_X
-4. MEDIUM_B_X
-5. LARGE_A_X
-6. LARGE_B_X
+I've also created an updated version of the WikiHouse Simple Starter Kit, file titled "Starter_Simple_Design_Kit_Skylark250". Using this file will hopefully make it easier to start designing in SketchUp immediately. The file includes all current Skylark 250 Simple Design Kit blocks as created by the WikiHouse team and available <a href="https://www.wikihouse.cc/blocks">here</a>. In addition, I've created new components that are assembled out of Skylark combs and the relevant end floor blocks fitted to them.
 
 These components correspond with the standard floor block sizes of WikiHouse. The components have the necessary ground (A) or mid-level (B) combs with the end floor block combined already for the X-axis. This means you can start building right away, and the only additional combs you will need to add in your design are for the Y-axis.
 
 I have also created a new roof_G block which is a combination of the G COMBS and end roof block to create the ends of the gabled roof form. The roof_G is used as the X-axis on both ends of your house to create a gabled roof. For more information about roofs, have a look at my roofs practice <a href="https://github.com/JennHuygen/Skylark/tree/main/Sketchup%20Practice/Roofs">here</a>. 
+
+Finally, I created a new component for the walls that support the gable roof. This component has the full gable roof walls combined already so you can just move them onto the x-axis in your design and don't need to add each individual wall block anymore.
 
 Feel free to comment, open issues, or fork on all my files and designs. Looking forward to learning from you.
 
