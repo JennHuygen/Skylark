@@ -30,14 +30,18 @@ The above is an example of the details in the floor of WikiHouse Skylark. The ti
 
 In addition to the full ties that connect two blocks together, there are also half ties which you need to use to connect a block that has an opening, such as a window or door block, with the wall block located next to them:
 ![](images/example_halftie_and_fulltie.png)
+
 The above is an example of how the window block uses both full ties and half ties to connect the block to the end wall on the right. At the bottom, the full tie can be used, whereas at the window opening at the top, you need to use half ties to connect the two blocks together.
 
 You do need to make sure, however, that the ties are fitted in the right way. There are shapes cut out into the Skylark blocks where the ties need to neatly fit in:
+
 ![](images/example_halftie_wrong.png)
+
 The above is an example of the wrong way of fitting a half tie. The curving on the right side of the tie would not fall neatly into the cut out shape of the block (in green) when inserted this way.
 
 Below is an example of fitting a half tie correctly. The curving on the right side of the tie will now fall neatly into the cut out shape of the block (in green).
-![](images/example_halftie_correct.png)
+
+![](images/example_halfttie_correct.png)
  
 ### 3. The pegs connect your walls with your floors.
 
@@ -52,7 +56,9 @@ Now I know, however, that it is the humble, unforeseen peg that really should be
 
 What you need to do is to line up two small pegs and fit them through the small corner holes of the walls and into the cut out holes on top of the combs. 
 This way the walls (whether that is a regular wall, window or door block) are connect with the floor through the combs. You will need to do this at the bottom (to connect the wall to the floor) and the top (to connect the wall to the ceiling or second floor of your house).
+
 ![](images/fullview_pegs_combs_connection.png)
+
 The above is an example of how to pegs fit through the corner of the wall blocks and through the tops of the combs, joining the walls and floors together. From left to right: top of combs without pegs, top of comb with pegs inserted, pegs inserted through the corner of a wall block and through the top of the comb (not visible in the illustration as this is inside the bottom of the wall).
 
 The only thing left to consider, for now, is how to insert the pegs in the right way. One side of them has a rounded curve, and the other side has a straight edge. 
